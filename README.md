@@ -1,6 +1,6 @@
 #Basic project
 
-*Simple Project*
+*Classes Project*
 
 **Java 7**
 

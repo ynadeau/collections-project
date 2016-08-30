@@ -1,4 +1,4 @@
-#Classes-project
+#collections-project
 
 *Classes Project*
 
